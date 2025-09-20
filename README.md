@@ -1,12 +1,12 @@
 # 🛒 Walmart Sales Analysis  
 
-## 📌 Overview  
+## 📌 Overview : 
 This project analyzes **Walmart Sales Data** to uncover insights about customer behavior, product performance, and branch-wise sales trends.  
 Using **data analysis & visualization**, we evaluate sales patterns, revenue drivers, and customer preferences.  
 
 ---
 
-## 🎯 Objective  
+## 🎯 Objective :
 - Perform **exploratory data analysis (EDA)** on Walmart sales dataset.  
 - Identify **key sales trends** and **factors influencing revenue**.  
 - Understand the impact of **branch, customer type, payment method, and product line** on sales.  
